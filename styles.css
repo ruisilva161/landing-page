@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: auto;
+}
+
+header {
+    color: #f9faf8;
+    background-color: #1F2937;
+    padding: 200px;
+    padding-top: 20px; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-left { 
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+    color: #f9faf8;
+    font-size: 24px;
+    display: flex;
+    gap: 20px;
+}
+
+a {
+    text-decoration: none ;
+    color: #E5E7Eb;
+    font-size: 18px;
+    
+}
